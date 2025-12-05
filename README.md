@@ -1,4 +1,4 @@
 # Multi-Finger-Dexterous-Manipulator
 多指灵巧操作手   Multi-Finger Dexterous Manipulator
 
-<img src="./pictures/视图.png" width="800" />
+![多指灵巧操作手](pictures/仿生头.gif)

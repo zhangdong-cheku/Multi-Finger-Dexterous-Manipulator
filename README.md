@@ -41,6 +41,48 @@
 
 包装与装卸： 处理易碎、柔软或形状不规则的物品（如糕点、服装）。
 
+Multi-Finger Dexterous Manipulator
+
+The ultimate goal of dexterous hands is to be able to replace or assist human hands in completing complex tasks in unstructured and dynamic environments. Its main application fields include:
+
+High-end manufacturing and industrial maintenance
+
+Precision assembly: In industries such as electronics, watches, and automobiles, it is used to perform tasks that require high precision and flexibility, such as tightening screws, plugging and unplugging cables, and assembling small parts.
+
+High-risk operations: Valve operation, equipment inspection and maintenance in nuclear facilities, high-voltage electrical environments, and chemical pipelines to avoid personnel risks.
+
+Aerospace: Conducting extravehicular equipment maintenance, scientific experiment operations, etc. at space stations (such as the end of the robotic arm of the International Space Station).
+
+Medical and life sciences
+
+Remote surgical robots: As the terminal of surgical instruments, they perform more stable and precise cutting, suturing, and clamping actions than human hands (such as the Da Vinci surgical system).
+
+Rehabilitation assistance: As a rehabilitation robot or intelligent prosthetic hand, it helps disabled people regain their self-care ability, such as grasping water cups and using tools.
+
+Laboratory automation: Replace laboratory technicians in performing repetitive and precise operations, such as pipetting, sample dispensing, and opening test tube caps, to enhance throughput and consistency.
+
+Services and special operations
+
+Housekeeping and service robots: In the future, household robots will be able to open doors, serve tea and water, organize clothes and operate household appliances with their dexterous hands.
+
+Explosive ordnance disposal and security inspection: It is used for safely removing explosives and conducting exploration and operations in hazardous environments.
+
+Agricultural picking: Identify and gently grasp ripe fruits (such as strawberries and tomatoes) to avoid damage.
+
+Scientific research and external exploration
+
+Deep-sea exploration: Collecting seabed biological and geological samples on submersibles and operating scientific instruments.
+
+Planetary exploration: In the future, vehicle-mounted mechanical arms for planets like Mars will be used to carry out complex scientific research tasks such as rock sampling and equipment deployment.
+
+Frontier research in artificial intelligence and robotics: It is itself an ideal experimental platform for studying key technologies such as object manipulation, machine touch, and hand-eye coordination.
+
+Logistics and Warehousing
+
+Unordered sorting: Among the randomly piled containers, identify and pick up goods of various shapes to achieve "goods-to-person" picking. This is a very popular application direction at present.
+
+Packaging and handling: Handling fragile, soft or irregularly shaped items (such as pastries, clothing).
+
 <p align="center"> 
   <img src="pictures/多指灵巧操作手.gif" width="400"/>
  

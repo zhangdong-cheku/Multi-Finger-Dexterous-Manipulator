@@ -85,7 +85,10 @@ Packaging and handling: Handling fragile, soft or irregularly shaped items (such
 
 <p align="center"> 
   <img src="pictures/多指灵巧操作手.gif" width="400"/>
- 
-  # 加入社区
+
+## 致谢
+感谢项目组成员张钱杰在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。
+
+## 加入社区
 <p align="center">    
   <img src="QQ群/QQ群.png" width="400"/>

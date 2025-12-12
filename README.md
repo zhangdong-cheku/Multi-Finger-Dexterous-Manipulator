@@ -2,7 +2,7 @@
 多指灵巧操作手   Multi-Finger Dexterous Manipulator
 
 <p align="center"> 
-  <img src="pictures/多指灵巧操作手.gif" width="600"/>
+  <img src="pictures/多指灵巧操作手.jpg" width="600"/>
   
 灵巧手的终极目标是能在非结构化、动态的环境中替代或辅助人手完成复杂工作。其主要应用领域包括：
 
